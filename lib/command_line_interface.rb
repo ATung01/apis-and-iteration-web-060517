@@ -1,5 +1,7 @@
 def welcome
   # puts out a welcome message here!
+  puts "Welcome to the Star Wars API Project"
+  puts "test"
 end
 
 def get_character_from_user
